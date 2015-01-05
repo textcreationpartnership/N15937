@@ -120,8 +120,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020391_0000_0FAF06E4D124AC00"/>
-            <pb facs="tcp:020391_0001_0FAF06E54D9FEE28" rendition="simple:additions"/>
+            <pb facs="unknown:020391_0000_0FAF06E4D124AC00"/>
+            <pb facs="unknown:020391_0001_0FAF06E54D9FEE28"
+                rendition="simple:additions"/>
             <p>CHRISTIAN SONGS; WRITTEN BY Mr. <hi>JOHN GLAS,</hi> and others.</p>
             <q>
                <p>From the uttermoſt Part of the Earth have we heard Songs, Glory to the <hi>RIGHTEOUS ONE.</hi>
@@ -136,7 +137,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:020391_0002_0FAF06E60C4F4A78"/>
+            <pb facs="unknown:020391_0002_0FAF06E60C4F4A78"/>
             <head>CHRISTIAN SONGS.</head>
             <div n="1" type="song">
                <head>SONG I.</head>
@@ -178,7 +179,7 @@
                   <l>In vain my numbers flow.</l>
                </lg>
                <lg>
-                  <pb n="4" facs="tcp:020391_0003_0FAF06E6B8298488"/>
+                  <pb n="4" facs="unknown:020391_0003_0FAF06E6B8298488"/>
                   <l>7 Could I with elocution ſpeak,</l>
                   <l>Tranſcending human tongue;</l>
                   <l>And could I ſing in ſtrains more ſweet</l>
@@ -228,7 +229,7 @@
                </lg>
             </div>
             <div n="2" type="song">
-               <pb n="5" facs="tcp:020391_0004_0FAF06E770373F18"/>
+               <pb n="5" facs="unknown:020391_0004_0FAF06E770373F18"/>
                <head>SONG II.</head>
                <lg>
                   <l>BEHOLD divine free Grace ariſe,</l>
@@ -273,7 +274,7 @@
                   <l>Steps ſov'reign forward, and reſcues;</l>
                </lg>
                <lg>
-                  <pb n="6" facs="tcp:020391_0005_0FAF06E9EC5F2180"/>
+                  <pb n="6" facs="unknown:020391_0005_0FAF06E9EC5F2180"/>
                   <l>8 Life more abundant we poſſeſs</l>
                   <l>O ſecond man! than <hi>Adam</hi> loſt;</l>
                   <l>An earthly proſpect crown'd his bliſs;</l>
@@ -323,7 +324,7 @@
                   <l>5 Speak not of worth, nor cloud his grace,</l>
                   <l>But let his mercy ſhine:</l>
                   <l>
-                     <pb n="7" facs="tcp:020391_0006_0FAF06EADDDA78A8"/>Mercy's a ſtranger to thy worth,</l>
+                     <pb n="7" facs="unknown:020391_0006_0FAF06EADDDA78A8"/>Mercy's a ſtranger to thy worth,</l>
                   <l>All ſov'reign, all divine!</l>
                </lg>
                <lg>
@@ -372,7 +373,7 @@
                   <l>They tend, as rivers to the main.</l>
                </lg>
                <lg>
-                  <pb n="8" facs="tcp:020391_0007_0FAF06EC7B40A7C8"/>
+                  <pb n="8" facs="unknown:020391_0007_0FAF06EC7B40A7C8"/>
                   <l>3 What elſe is evil but the ſhade,</l>
                   <l>By wiſdom in the picture laid,</l>
                   <l>To make this grace ariſe, and ſhew</l>
@@ -422,7 +423,7 @@
                   <l>For mercy's aid to miſery.</l>
                </lg>
                <lg>
-                  <pb n="9" facs="tcp:020391_0008_0FAF06ECB6794448"/>
+                  <pb n="9" facs="unknown:020391_0008_0FAF06ECB6794448"/>
                   <l>11 But Love, which is the only God,</l>
                   <l>Had always being and abode,</l>
                   <l>Whole in each one of loving Three,</l>
@@ -473,7 +474,7 @@
                </lg>
             </div>
             <div n="5" type="song">
-               <pb n="10" facs="tcp:020391_0009_0FAF06ED725D8A18"/>
+               <pb n="10" facs="unknown:020391_0009_0FAF06ED725D8A18"/>
                <head>SONG V.</head>
                <lg>
                   <l>FOOLS worſhip gods who hate not ſin,</l>
@@ -519,7 +520,7 @@
                </lg>
             </div>
             <div n="6" type="song">
-               <pb n="11" facs="tcp:020391_0010_0FAF06EE342B54D8"/>
+               <pb n="11" facs="unknown:020391_0010_0FAF06EE342B54D8"/>
                <head>SONG VI.</head>
                <div n="1" type="part">
                   <head>Part I.</head>
@@ -569,7 +570,7 @@
                      <l>8 As food the hungry ſoul relieves,</l>
                      <l>As choice perfumes delight the ſmell;</l>
                      <l>
-                        <pb n="12" facs="tcp:020391_0011_0FAF06EEF12475A8"/>So Mercy from the croſs revives</l>
+                        <pb n="12" facs="unknown:020391_0011_0FAF06EEF12475A8"/>So Mercy from the croſs revives</l>
                      <l>Man ſinking in the jaws of hell:</l>
                   </lg>
                   <lg>
@@ -618,7 +619,7 @@
                      <l>THY love makes us count all things loſ</l>
                      <l>To ſcorned poverty gives charms;</l>
                      <l>
-                        <pb n="13" facs="tcp:020391_0012_0FAF06EFE073BD40"/>Makes martyrs bold ev'n on the croſs,</l>
+                        <pb n="13" facs="unknown:020391_0012_0FAF06EFE073BD40"/>Makes martyrs bold ev'n on the croſs,</l>
                      <l>And, ſinging triumph, reach thy arms.</l>
                   </lg>
                   <lg>
@@ -666,7 +667,7 @@
                   <l>2 Let ſongs for ever crown that morn,</l>
                   <l>When, new to life again,</l>
                   <l>
-                     <pb n="14" facs="tcp:020391_0013_0FAF06F0A4E96AC8"/>
+                     <pb n="14" facs="unknown:020391_0013_0FAF06F0A4E96AC8"/>
                      <hi>Immanuel</hi> roſe, and ſent thee down,</l>
                   <l>Full fraught with life to men.</l>
                </lg>
@@ -716,7 +717,7 @@
                   <l>10 But what is Hope, and what is Faith?</l>
                   <l>But fainter ſtars of night,</l>
                   <l>
-                     <pb n="15" facs="tcp:020391_0014_0FAF06F408EFF2D8"/>To guide the pilgrim thro' the ſhade,</l>
+                     <pb n="15" facs="unknown:020391_0014_0FAF06F408EFF2D8"/>To guide the pilgrim thro' the ſhade,</l>
                   <l>Till dawns the morning light.</l>
                </lg>
                <lg>
@@ -766,7 +767,7 @@
                </lg>
             </div>
             <div n="9" type="song">
-               <pb n="16" facs="tcp:020391_0015_0FAF06F5138B2C80"/>
+               <pb n="16" facs="unknown:020391_0015_0FAF06F5138B2C80"/>
                <head>SONG. IX.</head>
                <lg>
                   <l>MELCHIZEDECK, immortal prieſt!</l>
@@ -814,7 +815,7 @@
                   <l>A new and living way haſt pav'd.</l>
                </lg>
                <lg>
-                  <pb n="17" facs="tcp:020391_0016_0FAF06F5B5D981D8"/>
+                  <pb n="17" facs="unknown:020391_0016_0FAF06F5B5D981D8"/>
                   <l>2 Reſcue me from myſelf, O Lord;</l>
                   <l>Break Satan's pow'r within my ſoul;</l>
                   <l>And let not worldly luſts me rule,</l>
@@ -860,7 +861,7 @@
                   <l>And grateful worſhip pay.</l>
                </lg>
                <lg>
-                  <pb n="18" facs="tcp:020391_0017_0FAF06F6700EA878"/>
+                  <pb n="18" facs="unknown:020391_0017_0FAF06F6700EA878"/>
                   <l>3 Here ends all ſearch, our God to pleaſe;</l>
                   <l>We'll work for life no more:</l>
                   <l>This blood gives ev'ry conſcience eaſe;</l>
@@ -912,7 +913,7 @@
                      <l>4 Extol that Grace, ye ſaints, which gave</l>
                      <l>The ſpotleſs holy one and juſt,</l>
                      <l>
-                        <pb n="19" facs="tcp:020391_0018_0FAF06F764449F48"/>To devils rage and to a grave:</l>
+                        <pb n="19" facs="unknown:020391_0018_0FAF06F764449F48"/>To devils rage and to a grave:</l>
                      <l>And mix'd with blood of God the duſt.</l>
                   </lg>
                   <lg>
@@ -962,7 +963,7 @@
                      <l>For various guilt met all on him.</l>
                   </lg>
                   <lg>
-                     <pb n="20" facs="tcp:020391_0019_0FAF06F7F764E0B0"/>
+                     <pb n="20" facs="unknown:020391_0019_0FAF06F7F764E0B0"/>
                      <l>2 What millions' ſins that death atones!</l>
                      <l>When God himſelf in blood expir'd,</l>
                      <l>A whole burnt-offering, at once</l>
@@ -1014,7 +1015,7 @@
                      <l>The grace, which gave that mercy vent.</l>
                   </lg>
                   <lg>
-                     <pb n="21" facs="tcp:020391_0020_0FAF06F904CBE3D8"/>
+                     <pb n="21" facs="unknown:020391_0020_0FAF06F904CBE3D8"/>
                      <l>10 O may that mercy to the end</l>
                      <l>Be ours, which all the ſaints do claims;</l>
                      <l>Which, how we ſhare, is all explain'd,</l>
@@ -1064,7 +1065,7 @@
                   <l>7 Dread ruin, louring from on high,</l>
                   <l>With all her bolts of wrath, drew nigh;</l>
                   <l>
-                     <pb n="22" facs="tcp:020391_0021_0FAF06FB83C54948"/>Till that bleſs'd day, decreed of heav'n,</l>
+                     <pb n="22" facs="unknown:020391_0021_0FAF06FB83C54948"/>Till that bleſs'd day, decreed of heav'n,</l>
                   <l>When from the dead to us was given,</l>
                </lg>
                <lg>
@@ -1114,7 +1115,7 @@
                   <l>15 Ye morning-ſtars renew your notes,</l>
                   <l>Triumphing o'er all Satan's plots,</l>
                   <l>
-                     <pb facs="tcp:020391_0022_0FAF06FC82FCF808"/>In concert with the church of God,</l>
+                     <pb facs="unknown:020391_0022_0FAF06FC82FCF808"/>In concert with the church of God,</l>
                   <l>Who ſhew the worth of Jeſus' blood.</l>
                </lg>
                <lg>
@@ -1164,7 +1165,7 @@
                </lg>
             </div>
             <div n="15" type="song">
-               <pb n="24" facs="tcp:020391_0023_0FAF06FD4C8959C0"/>
+               <pb n="24" facs="unknown:020391_0023_0FAF06FD4C8959C0"/>
                <head>SONG XV.</head>
                <lg>
                   <l>THY worthineſs is all our ſong,</l>
@@ -1208,7 +1209,7 @@
                   <l>By which we're juſtify'd.</l>
                </lg>
                <lg>
-                  <pb n="25" facs="tcp:020391_0024_0FAF06FDF3420648"/>
+                  <pb n="25" facs="unknown:020391_0024_0FAF06FDF3420648"/>
                   <l>3 Here God invariably Juſt</l>
                   <l>And holy doth appear;</l>
                   <l>Here he ſhines forth the Jealous God,</l>
@@ -1255,7 +1256,7 @@
                   <l>Conſcious of all his brethren's ſins,</l>
                   <l>Before the righteous God</l>
                   <l>
-                     <pb n="26" facs="tcp:020391_0025_0FAF06FF2DFF6400"/>He groans: his ſweat falls to the ground,</l>
+                     <pb n="26" facs="unknown:020391_0025_0FAF06FF2DFF6400"/>He groans: his ſweat falls to the ground,</l>
                   <l>Like heavy drops of blood.</l>
                </lg>
                <lg>
@@ -1304,7 +1305,7 @@
                   <l>Nor hell can tear us from thy arms.</l>
                </lg>
                <lg>
-                  <pb n="27" facs="tcp:020391_0026_0FAF06FF78402580"/>
+                  <pb n="27" facs="unknown:020391_0026_0FAF06FF78402580"/>
                   <l>4 Hark! ah! that mournful loud complaint!</l>
                   <l>To his forſaking God he cries!</l>
                   <l>His horrors ſhake the earth! lo! rent</l>
@@ -1353,7 +1354,7 @@
                   <l>'Tis his to bring reviving warmth,</l>
                   <l>Where coldneſs ſat before,</l>
                   <l>
-                     <pb n="28" facs="tcp:020391_0027_0FAF07003B1B68A0"/>And uſher in the day on thoſe</l>
+                     <pb n="28" facs="unknown:020391_0027_0FAF07003B1B68A0"/>And uſher in the day on thoſe</l>
                   <l>Who mourn'd in darkneſs ſore.</l>
                </lg>
                <lg>
@@ -1402,7 +1403,7 @@
                   <l>Then take up the croſs, and follow me.</l>
                </lg>
                <lg>
-                  <pb n="29" facs="tcp:020391_0028_0FAF0700F67E1A90"/>
+                  <pb n="29" facs="unknown:020391_0028_0FAF0700F67E1A90"/>
                   <l>6 'Twas Jeſus ſpoke; the thrilling ſound</l>
                   <l>A balſam was to ev'ry wound;</l>
                   <l>Thy voice gave life, and pow'r I found,</l>
@@ -1452,7 +1453,7 @@
                      <l>The <hi>common</hi> ſafety is my theme;</l>
                   </lg>
                   <lg>
-                     <pb n="30" facs="tcp:020391_0029_0FAF0701B4AAB250"/>
+                     <pb n="30" facs="unknown:020391_0029_0FAF0701B4AAB250"/>
                      <l>3 That grand deliv'rance then diſplay'd,</l>
                      <l>By God's dear Son, the Prince of Peace,</l>
                      <l>When, riſing from the grave, he ſaid</l>
@@ -1503,7 +1504,7 @@
                      <l>Hope nothing from the human mind.</l>
                   </lg>
                   <lg>
-                     <pb n="31" facs="tcp:020391_0030_0FAF07029245EAE0"/>
+                     <pb n="31" facs="unknown:020391_0030_0FAF07029245EAE0"/>
                      <l>11 The great reward of all my pain</l>
                      <l>Stands not on ſuch precarious ground:</l>
                      <l>Thus not one ſoul ſhould life obtain;</l>
@@ -1552,7 +1553,7 @@
                      <l>7 The grace of God in Jeſus ſhown,</l>
                      <l>Moſt ſure ſalvation brings along;</l>
                      <l>
-                        <pb n="32" facs="tcp:020391_0031_0FAF070504728CC0"/>Salvation to our God alone,</l>
+                        <pb n="32" facs="unknown:020391_0031_0FAF070504728CC0"/>Salvation to our God alone,</l>
                      <l>Of ev'ry tribe ſhall be the ſong.</l>
                   </lg>
                   <lg>
@@ -1602,7 +1603,7 @@
                   <l>And ſo his ſoul is eas'd.</l>
                </lg>
                <lg>
-                  <pb n="33" facs="tcp:020391_0032_0FAF0705F1AA0510"/>
+                  <pb n="33" facs="unknown:020391_0032_0FAF0705F1AA0510"/>
                   <l>4 Then love to God in Jeſus Chriſt,</l>
                   <l>To all his ſaints, and words,</l>
                   <l>Confirms, and proves unfeigned faith,</l>
@@ -1651,7 +1652,7 @@
                   <l>6 Thou prince, ſhalt ſing in that bleſs'd age,</l>
                   <l>JEHOVAH, I'll thy praiſe make known.</l>
                   <l>
-                     <pb n="34" facs="tcp:020391_0033_0FAF07075B7D4310"/>Thy word's fulfill'd; take up thy pledge,</l>
+                     <pb n="34" facs="unknown:020391_0033_0FAF07075B7D4310"/>Thy word's fulfill'd; take up thy pledge,</l>
                   <l>And claim thy being as thy own:</l>
                </lg>
                <lg>
@@ -1700,7 +1701,7 @@
                   <l>14 JEHOVAH ſing, the man of war,</l>
                   <l>Whoſe right hand hath done valiantly,</l>
                   <l>
-                     <pb n="35" facs="tcp:020391_0034_0FAF0707CFF720B0"/>Amazing deeds, excelling far</l>
+                     <pb n="35" facs="unknown:020391_0034_0FAF0707CFF720B0"/>Amazing deeds, excelling far</l>
                   <l>The wonders wrought at the <hi>Red</hi> ſea.</l>
                </lg>
                <lg>
@@ -1757,7 +1758,7 @@
                   <l>For the faithful true witneſs will never deceive.</l>
                </lg>
                <lg>
-                  <pb n="36" facs="tcp:020391_0035_0FAF07087319A658"/>
+                  <pb n="36" facs="unknown:020391_0035_0FAF07087319A658"/>
                   <l>8 That he'll change your vile body he caus'd you to hope,</l>
                   <l>Like his glorious body he ſhall raiſe you up.</l>
                   <l>All ſhining in glory, redeem'd from the grave;</l>
@@ -1806,7 +1807,7 @@
                   <l>7 This firſt day of the week, he ſhews</l>
                   <l>A pledge of joys before unknown,</l>
                   <l>
-                     <pb n="37" facs="tcp:020391_0036_0FAF070932878048"/>When he ſhould riſe, and wide diffuſe</l>
+                     <pb n="37" facs="unknown:020391_0036_0FAF070932878048"/>When he ſhould riſe, and wide diffuſe</l>
                   <l>The oil of joy among his own.</l>
                </lg>
                <lg>
@@ -1852,7 +1853,7 @@
                   <l>SEE yonder croſs! come, turn aſide,</l>
                   <l>And this great ſight behold:</l>
                   <l>
-                     <pb n="38" facs="tcp:020391_0037_0FAF070A04AD8A50"/>The veh'ment flames of wrath divine</l>
+                     <pb n="38" facs="unknown:020391_0037_0FAF070A04AD8A50"/>The veh'ment flames of wrath divine</l>
                   <l>On Chriſt the man take hold.</l>
                </lg>
                <lg>
@@ -1901,7 +1902,7 @@
                   <l>9 He quickly comes, from all your pains</l>
                   <l>To give you bleſs'd repoſe:</l>
                   <l>
-                     <pb n="39" facs="tcp:020391_0038_0FAF070AB1649B88"/>And then, with pow'rful hand he'll turn</l>
+                     <pb n="39" facs="unknown:020391_0038_0FAF070AB1649B88"/>And then, with pow'rful hand he'll turn</l>
                   <l>The flame upon your foes.</l>
                </lg>
             </div>
@@ -1951,7 +1952,7 @@
                   <l>Might dying ſinners ſave.</l>
                </lg>
                <lg>
-                  <pb n="40" facs="tcp:020391_0039_0FAF070BA24A61A0"/>
+                  <pb n="40" facs="unknown:020391_0039_0FAF070BA24A61A0"/>
                   <l>8 See from the dead the Prince of life</l>
                   <l>In glory bright appears!</l>
                   <l>No further proof of love I'll ſeek;</l>
@@ -1996,7 +1997,7 @@
                </lg>
             </div>
             <div n="28" type="song">
-               <pb n="41" facs="tcp:020391_0040_0FAF070C35D203E0"/>
+               <pb n="41" facs="unknown:020391_0040_0FAF070C35D203E0"/>
                <head>SONG XXVIII.</head>
                <lg>
                   <l>THE death of God, who death o'ercame,</l>
@@ -2041,7 +2042,7 @@
                   <l>3 As from a rock's ſtupendous height,</l>
                   <l>The eagle doth deſcry her prey;</l>
                   <l>
-                     <pb n="42" facs="tcp:020391_0041_0FAF070D41D21080"/>She with her young ſucks up the blood</l>
+                     <pb n="42" facs="unknown:020391_0041_0FAF070D41D21080"/>She with her young ſucks up the blood</l>
                   <l>And where the ſlain is, there are they:</l>
                </lg>
                <lg>
@@ -2091,7 +2092,7 @@
                   <l>That he might ſeek and find his ſpouſe.</l>
                </lg>
                <lg>
-                  <pb n="43" facs="tcp:020391_0042_0FAF070FB44DF808"/>
+                  <pb n="43" facs="unknown:020391_0042_0FAF070FB44DF808"/>
                   <l>5 For him, who, in the form of God,</l>
                   <l>Had been before the world began,</l>
                   <l>And then in fleſh made his abode,</l>
@@ -2141,7 +2142,7 @@
                   <l>From him, and cleave to her his ſpouſe.</l>
                </lg>
                <lg>
-                  <pb n="44" facs="tcp:020391_0043_0FAF07110CBD7980"/>
+                  <pb n="44" facs="unknown:020391_0043_0FAF07110CBD7980"/>
                   <l>13 The name he gave her, doth declare</l>
                   <l>That ſhe's of him, and with him one</l>
                   <l>In divine ſpirit, as they ſhare</l>
@@ -2192,7 +2193,7 @@
                   <l>In thy bleſſed body on the curſed tree,</l>
                   <l>Thou bar'ſt all our ſins, while thy God frown'd on thee,</l>
                   <l>
-                     <pb n="45" facs="tcp:020391_0044_0FAF07117796D9A8"/>Expiring in blood in our ſtead; and lo, we</l>
+                     <pb n="45" facs="unknown:020391_0044_0FAF07117796D9A8"/>Expiring in blood in our ſtead; and lo, we</l>
                   <l>Exult in thy merit and glory.</l>
                   <l>Worth, <hi>&amp;c.</hi>
                   </l>
@@ -2245,7 +2246,7 @@
                   </l>
                </lg>
                <lg>
-                  <pb n="46" facs="tcp:020391_0045_0FAF07126A1CAF78"/>
+                  <pb n="46" facs="unknown:020391_0045_0FAF07126A1CAF78"/>
                   <l>6 And that they all might be built up,</l>
                   <l>Thro' faith, an houſe for God,</l>
                   <l>And grace might ſhine more bright to them,</l>
@@ -2295,7 +2296,7 @@
                   <l>3 Firſt mercy favour'd mortal view,</l>
                   <l>When God's own Son an infant grew;</l>
                   <l>
-                     <pb n="47" facs="tcp:020391_0046_0FAF0712F9A3D818"/>And in its full perfection ſhone,</l>
+                     <pb n="47" facs="unknown:020391_0046_0FAF0712F9A3D818"/>And in its full perfection ſhone,</l>
                   <l>When dying Jeſus cry'd, <hi>'Tis done!</hi>
                   </l>
                </lg>
@@ -2349,7 +2350,7 @@
                   <l>In whom is fix'd my ſoul's delight.</l>
                </lg>
                <lg>
-                  <pb n="48" facs="tcp:020391_0047_0FAF0713B4787AD8"/>
+                  <pb n="48" facs="unknown:020391_0047_0FAF0713B4787AD8"/>
                   <l>2 My Spirit's fulneſs ever dwells</l>
                   <l>On head of this anointed One;</l>
                   <l>By him my judgment, and my truth,</l>
@@ -2398,7 +2399,7 @@
                   <l>THE Love which thought on helpleſs man,</l>
                   <l>Doth angels tongues employ;</l>
                   <l>
-                     <pb n="49" facs="tcp:020391_0048_0FAF071471634B98"/>The grace which ſtoop'd to <hi>Adam</hi>'s race,</l>
+                     <pb n="49" facs="unknown:020391_0048_0FAF071471634B98"/>The grace which ſtoop'd to <hi>Adam</hi>'s race,</l>
                   <l>The heav'ns doth fill with joy.</l>
                </lg>
                <lg>
@@ -2444,7 +2445,7 @@
                   <l>In CHRIST they are the ſame.</l>
                </lg>
                <lg>
-                  <pb n="50" facs="tcp:020391_0049_0FAF07153184C5E8"/>
+                  <pb n="50" facs="unknown:020391_0049_0FAF07153184C5E8"/>
                   <l>9 When the head-ſtone ſhall be brought forth</l>
                   <l>Redemption-work to crown;</l>
                   <l>The ſaints and angels then ſhall ſhout,</l>
@@ -2500,7 +2501,7 @@
                   <l>The proudeſt en'mies of our Lord.</l>
                </lg>
                <lg>
-                  <pb n="51" facs="tcp:020391_0050_0FAF07161A7AE670"/>
+                  <pb n="51" facs="unknown:020391_0050_0FAF07161A7AE670"/>
                   <l>2 But when we Zion call'd to mind,</l>
                   <l>With Shiloh's ſtreams which ſoftly go,</l>
                   <l>No eaſe in Babel we could find,</l>
@@ -2553,7 +2554,7 @@
                   <l>Quit our regard to her moſt juſt?</l>
                </lg>
                <lg>
-                  <pb n="52" facs="tcp:020391_0051_0FAF0716AF6C4240"/>
+                  <pb n="52" facs="unknown:020391_0051_0FAF0716AF6C4240"/>
                   <l>10 Jeruſalem! if in this land,</l>
                   <l>I loſe of thee the memory;</l>
                   <l>Then, for thy ſake, let my right hand</l>
@@ -2602,7 +2603,7 @@
                   <l>Comes to reward thee quickly now.</l>
                </lg>
                <lg>
-                  <pb n="53" facs="tcp:020391_0052_0FAF071914737940"/>
+                  <pb n="53" facs="unknown:020391_0052_0FAF071914737940"/>
                   <l>18 Yea, bleſſings on him; for he'll take</l>
                   <l>The younger harlots by thy ſide,</l>
                   <l>And them in pieces, for our ſake,</l>
@@ -2654,7 +2655,7 @@
                   <l>Take up my yoke, and learn the lowly part</l>
                   <l>From me, for meek and lowly is my heart.</l>
                   <l>
-                     <pb n="54" facs="tcp:020391_0053_0FAF071A0199ED68"/>Thus, only thus, your ſouls true reſt ſhall find;</l>
+                     <pb n="54" facs="unknown:020391_0053_0FAF071A0199ED68"/>Thus, only thus, your ſouls true reſt ſhall find;</l>
                   <l>And know my yoke is light, my burden's kind.</l>
                </lg>
             </div>
@@ -2699,7 +2700,7 @@
                   <l>3 Yet that ſame cloud a gloomy ſide</l>
                   <l>Preſented to their foes;</l>
                   <l>
-                     <pb n="55" facs="tcp:020391_0054_0FAF071B04D745E8"/>Height'ning the horrors of the night;</l>
+                     <pb n="55" facs="unknown:020391_0054_0FAF071B04D745E8"/>Height'ning the horrors of the night;</l>
                   <l>Preſaging deeper woes.</l>
                </lg>
                <lg>
@@ -2748,7 +2749,7 @@
                   <l>O God! how rich thy grace!</l>
                </lg>
                <lg>
-                  <pb n="56" facs="tcp:020391_0055_0FAF071B45E3C060"/>
+                  <pb n="56" facs="unknown:020391_0055_0FAF071B45E3C060"/>
                   <l>4 How far above the ways of man,</l>
                   <l>O Lord, thy grand deſign!</l>
                   <l>To clothe the guilty ſons of men,</l>
@@ -2797,7 +2798,7 @@
                   <l>3 Thus ſpake the Lord, before his death,</l>
                   <l>To cauſe his friends attend</l>
                   <l>
-                     <pb n="57" facs="tcp:020391_0056_0FAF071C033B7420"/>To that event, at which all heav'n</l>
+                     <pb n="57" facs="unknown:020391_0056_0FAF071C033B7420"/>To that event, at which all heav'n</l>
                   <l>Doth wonder without end.</l>
                </lg>
                <lg>
@@ -2846,7 +2847,7 @@
                   <l>11 Among the nations to declare</l>
                   <l>How highly God did prize</l>
                   <l>
-                     <pb n="58" facs="tcp:020391_0057_0FAF071CB82EBC78"/>That lovely lowly character</l>
+                     <pb n="58" facs="unknown:020391_0057_0FAF071CB82EBC78"/>That lovely lowly character</l>
                   <l>Which mortals did deſpiſe:</l>
                </lg>
                <lg>
@@ -2895,7 +2896,7 @@
                   <l>That mercy might for ever ſhine.</l>
                </lg>
                <lg>
-                  <pb n="59" facs="tcp:020391_0058_0FAF071D7749D2E8"/>
+                  <pb n="59" facs="unknown:020391_0058_0FAF071D7749D2E8"/>
                   <l>7 See from the dead the firſt-born come!</l>
                   <l>The Lord of life has burſt the tomb!</l>
                   <l>To all the world, from this bleſt hour,</l>
@@ -2942,7 +2943,7 @@
                   <l>2 Remember well his laſt adieu;</l>
                   <l>And oft his friends remind</l>
                   <l>
-                     <pb n="60" facs="tcp:020391_0059_0FAF071E69971070"/>How you with lifted hands he bleſs'd,</l>
+                     <pb n="60" facs="unknown:020391_0059_0FAF071E69971070"/>How you with lifted hands he bleſs'd,</l>
                   <l>And ſhew'd his heart ſo kind.</l>
                   <l>How, as he bleſs'd, he mounted up,</l>
                   <l>And met the cloud of light;</l>
@@ -2987,7 +2988,7 @@
                   <l>And ſee his face in peace.</l>
                </lg>
                <lg>
-                  <pb n="61" facs="tcp:020391_0060_0FAF071EF7260EA8"/>
+                  <pb n="61" facs="unknown:020391_0060_0FAF071EF7260EA8"/>
                   <l>5 Thro' Jeſus crucify'd for ſin,</l>
                   <l>God ſmiling doth appear</l>
                   <l>On guilty man,—his precious blood</l>
@@ -3034,7 +3035,7 @@
                   <l>His own Son, the mighty One!</l>
                </lg>
                <lg>
-                  <pb n="62" facs="tcp:020391_0061_0FAF071FB1484D70"/>
+                  <pb n="62" facs="unknown:020391_0061_0FAF071FB1484D70"/>
                   <l>3 <hi>He</hi> thro' death deſtroy'd the foe;</l>
                   <l>By his grief remov'd our woe:</l>
                   <l>Thro' his glorious ſaving might,</l>
@@ -3086,7 +3087,7 @@
                   <l>3 <hi>'Tis finiſhed!</hi> ye nations hear,</l>
                   <l>Your fruitleſs labour now forbear;</l>
                   <l>
-                     <pb n="63" facs="tcp:020391_0062_0FAF07207AF4F8C8"/>By Jeſus' finiſh'd work alone,</l>
+                     <pb n="63" facs="unknown:020391_0062_0FAF07207AF4F8C8"/>By Jeſus' finiſh'd work alone,</l>
                   <l>There's acceſs to God's holy throne.</l>
                </lg>
                <lg>
@@ -3133,7 +3134,7 @@
                   <l>In their evening walk.</l>
                </lg>
                <lg>
-                  <pb n="64" facs="tcp:020391_0063_0FAF07212FA2C748"/>
+                  <pb n="64" facs="unknown:020391_0063_0FAF07212FA2C748"/>
                   <l>2 The purple morn! with gilded ray,</l>
                   <l>Renews the day with glad'ning light;</l>
                   <l>Th' o'erjoy'd creation welcomes day,</l>
@@ -3176,7 +3177,7 @@
                   <l>And all thy footſteps ſhew ſo plain</l>
                   <l>Thy pow'r, and godhead, to earth's utmoſt line,</l>
                   <l>
-                     <pb n="65" facs="tcp:020391_0064_0FAF0723A2B68920"/>Where brighter rays, where brighter rays</l>
+                     <pb n="65" facs="unknown:020391_0064_0FAF0723A2B68920"/>Where brighter rays, where brighter rays</l>
                   <l>Of God ne'er deign'd to ſhine;</l>
                </lg>
                <lg>
@@ -3222,7 +3223,7 @@
                   <l>This life eternal give.</l>
                </lg>
                <lg>
-                  <pb n="66" facs="tcp:020391_0065_0FAF07249445AE98"/>
+                  <pb n="66" facs="unknown:020391_0065_0FAF07249445AE98"/>
                   <l>6 Then, what tho' in this vale of tears,</l>
                   <l>Our ſorrows may abound?</l>
                   <l>And for affliction's mortal ſtroke,</l>
@@ -3271,7 +3272,7 @@
                   <l>3 The Woman who to John appear'd</l>
                   <l>Is clothed with the Sun,</l>
                   <l>
-                     <pb n="67" facs="tcp:020391_0066_0FAF0725F5A40A58"/>The perfect righteouſneſs of Chriſt,</l>
+                     <pb n="67" facs="unknown:020391_0066_0FAF0725F5A40A58"/>The perfect righteouſneſs of Chriſt,</l>
                   <l>Which he alone hath done,</l>
                </lg>
                <lg>
@@ -3318,7 +3319,7 @@
                </lg>
             </div>
             <div n="52" type="song">
-               <pb n="68" facs="tcp:020391_0067_0FAF072684829E08"/>
+               <pb n="68" facs="unknown:020391_0067_0FAF072684829E08"/>
                <head>SONG LII.</head>
                <lg>
                   <l>BEHOLD! what love the Father hath</l>
@@ -3365,7 +3366,7 @@
                </lg>
             </div>
             <div n="53" type="song">
-               <pb n="69" facs="tcp:020391_0068_0FAF07275F2A12B8"/>
+               <pb n="69" facs="unknown:020391_0068_0FAF07275F2A12B8"/>
                <head>SONG LIII.</head>
                <lg>
                   <l>I'VE ſeen the lovely garden flow'rs</l>
@@ -3413,7 +3414,7 @@
                   <l>8 When in the dark and diſmal road,</l>
                   <l>Which we are doom'd to tread,</l>
                   <l>
-                     <pb n="70" facs="tcp:020391_0069_0FAF072827ED38D0"/>Our comfort be the word of God,</l>
+                     <pb n="70" facs="unknown:020391_0069_0FAF072827ED38D0"/>Our comfort be the word of God,</l>
                   <l>Our rock, our ſtrength, our ſhade:</l>
                </lg>
                <lg>
@@ -3463,7 +3464,7 @@
                   <l>Where, O Grave! thy victory?</l>
                </lg>
                <lg>
-                  <pb facs="tcp:020391_0070_0FAF0728BA612120"/>
+                  <pb facs="unknown:020391_0070_0FAF0728BA612120"/>
                   <l>5 Now, all tears are wip'd away;</l>
                   <l>Free from curſe, and free from pain,</l>
                   <l>All Chriſt's people, now with him,</l>
@@ -3514,7 +3515,7 @@
                   <l>4 But 'midſt the rage of ſin and death,</l>
                   <l>Proceeds a grand deſign;</l>
                   <l>
-                     <pb facs="tcp:020391_0071_0FAF0729707ABC70"/>The glorious light of endleſs life,</l>
+                     <pb facs="unknown:020391_0071_0FAF0729707ABC70"/>The glorious light of endleſs life,</l>
                   <l>Acroſs the gloom doth ſhine.</l>
                </lg>
                <lg>
@@ -3566,7 +3567,7 @@
                   <l>Will ſhout his praiſe triumphantly.</l>
                </lg>
                <lg>
-                  <pb n="73" facs="tcp:020391_0072_0FAF072A5FF0ECF8"/>
+                  <pb n="73" facs="unknown:020391_0072_0FAF072A5FF0ECF8"/>
                   <l>4 A Man of war, JEHOVAH is!</l>
                   <l>This glorious name is only his;</l>
                   <l>He Pharaoh's chariots and his hoſt,</l>
@@ -3612,7 +3613,7 @@
                   <l>11 Among the mighty who is there</l>
                   <l>O God, that may with thee compare?</l>
                   <l>
-                     <pb n="74" facs="tcp:020391_0073_0FAF072B313F7F88"/>Who is like thee? In holineſs</l>
+                     <pb n="74" facs="unknown:020391_0073_0FAF072B313F7F88"/>Who is like thee? In holineſs</l>
                   <l>Thus glorious! Fearful is thy praiſe!</l>
                </lg>
                <lg>
@@ -3658,7 +3659,7 @@
                   <l>O Lord, eſtabliſh'd firm to ſtand.</l>
                </lg>
                <lg>
-                  <pb n="75" facs="tcp:020391_0074_0FAF072BB06530D0"/>
+                  <pb n="75" facs="unknown:020391_0074_0FAF072BB06530D0"/>
                   <l>19 For ever, and for ever more</l>
                   <l>The glorious Lord ſhall reign in pow'r:</l>
                   <l>The Lord ſhall reign,—the mighty One</l>
@@ -3704,7 +3705,7 @@
                   <l>Boundleſs mercy now takes place.</l>
                </lg>
                <lg>
-                  <pb n="76" facs="tcp:020391_0075_0FAF072E403DC868"/>
+                  <pb n="76" facs="unknown:020391_0075_0FAF072E403DC868"/>
                   <l>4 See! our Interceſſor lives,</l>
                   <l>Hear him plead before the throne!</l>
                   <l>Father, ſave my guilty flock,</l>
@@ -3749,7 +3750,7 @@
                   <l>His riſing, removes all our fears,</l>
                   <l>And ſhews him Almighty to ſave:</l>
                   <l>
-                     <pb n="77" facs="tcp:020391_0076_0FAF072F44D06048"/>How ſtrong were his tears and his cries!</l>
+                     <pb n="77" facs="unknown:020391_0076_0FAF072F44D06048"/>How ſtrong were his tears and his cries!</l>
                   <l>The worth of his blood how divine!</l>
                   <l>How perfect his ſacrifice is</l>
                   <l>Who roſe, tho' he ſuffer'd for ſin!</l>
@@ -3791,7 +3792,7 @@
                   <l>He takes them as deeds done to him:</l>
                </lg>
                <lg>
-                  <pb n="78" facs="tcp:020391_0077_0FAF072F73BBC640"/>
+                  <pb n="78" facs="unknown:020391_0077_0FAF072F73BBC640"/>
                   <l>Ye bleſt of my Father come near,</l>
                   <l>Sit down on my heavenly throne;</l>
                   <l>Inherit the kingdom prepar'd</l>
@@ -3835,7 +3836,7 @@
                   <l>Why not with pleaſure bid him come?</l>
                </lg>
                <lg>
-                  <pb n="79" facs="tcp:020391_0078_0FAF073033A9CCB0"/>
+                  <pb n="79" facs="unknown:020391_0078_0FAF073033A9CCB0"/>
                   <l>5 And do we, after all, then prize</l>
                   <l>This motley ſcene of grief and care?</l>
                   <l>Is heav'n ſo little in our eyes,</l>
@@ -3881,7 +3882,7 @@
                   <l>12 He bore th' Almighty's frown, that we</l>
                   <l>Might never feel the wrath divine,</l>
                   <l>
-                     <pb facs="tcp:020391_0079_0FAF0730F9AA63E0"/>Behold him bleeding on the tree!</l>
+                     <pb facs="unknown:020391_0079_0FAF0730F9AA63E0"/>Behold him bleeding on the tree!</l>
                   <l>See Juſtice there, and Mercy ſhine!</l>
                </lg>
                <lg>
@@ -3924,7 +3925,7 @@
                   <l>Our hope, unto the end.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:020391_0080_0FAF0731AF6C9448"/>
+                  <pb facs="unknown:020391_0080_0FAF0731AF6C9448"/>
                   <l>2 If we ſhall thus endure</l>
                   <l>With patience ſuff'ring for his fake,</l>
                   <l>His promiſe ſtandeth ſure</l>
@@ -3964,7 +3965,7 @@
                   <l>5 His en'mies are reſerv'd</l>
                   <l>To dreadful ſcenes of endleſs woe:</l>
                   <l>
-                     <pb n="82" facs="tcp:020391_0081_0FAF07329EE8A8A0"/>And have not we deſerv'd</l>
+                     <pb n="82" facs="unknown:020391_0081_0FAF07329EE8A8A0"/>And have not we deſerv'd</l>
                   <l>To be ſhut out from comfort too?</l>
                   <l>But bleſs'd be he</l>
                   <l>Who ſet us free,</l>
@@ -4004,7 +4005,7 @@
                   <l>ALTHO' temptations threaten round</l>
                   <l>And feeble as the moth I'm found;</l>
                   <l>
-                     <pb facs="tcp:020391_0082_0FAF0733605F8578"/>'Midſt greateſt dangers let me ſee</l>
+                     <pb facs="unknown:020391_0082_0FAF0733605F8578"/>'Midſt greateſt dangers let me ſee</l>
                   <l>Thy grace ſufficient, Lord, for me.</l>
                </lg>
                <lg>
@@ -4051,7 +4052,7 @@
                </lg>
             </div>
             <div n="62" type="song">
-               <pb n="84" facs="tcp:020391_0083_0FAF0733F3498828"/>
+               <pb n="84" facs="unknown:020391_0083_0FAF0733F3498828"/>
                <head>SONG LXII. HABAK. chap. iii. 17, 18, 19.</head>
                <lg>
                   <l>THO' the fig tree to bloſſom ſhould ceaſe,</l>
@@ -4098,7 +4099,7 @@
                   <l>HAIL! bleſt ſcenes of endleſs joy,</l>
                   <l>Where Chriſt in boundleſs glory reigns;</l>
                   <l>
-                     <pb n="85" facs="tcp:020391_0084_0FAF073670D95B18"/>Where nothing hurtful ſhall annoy,</l>
+                     <pb n="85" facs="unknown:020391_0084_0FAF073670D95B18"/>Where nothing hurtful ſhall annoy,</l>
                   <l>But gladneſs fills the happy plains:</l>
                   <l>Free from ſin, and free from fear,</l>
                   <l>None e'er ſhall ſigh, or ſhed a tear.</l>
@@ -4141,7 +4142,7 @@
                   <l>"Thou art worthy! Thou alone!"</l>
                </lg>
                <lg>
-                  <pb n="86" facs="tcp:020391_0085_0FAF07377452A740"/>
+                  <pb n="86" facs="unknown:020391_0085_0FAF07377452A740"/>
                   <l>4 He will ſoon return again,</l>
                   <l>And his ſaints with him ſhall reign;</l>
                   <l>In this hope they joyful ſay</l>
@@ -4185,7 +4186,7 @@
                   <l>4 Men mock the Chriſtians' hopes, and cry,</l>
                   <l>They're idle viſionary views;</l>
                   <l>
-                     <pb n="87" facs="tcp:020391_0086_0FAF0737B81358C0"/>They build, they plant, they ſell and buy,</l>
+                     <pb n="87" facs="unknown:020391_0086_0FAF0737B81358C0"/>They build, they plant, they ſell and buy,</l>
                   <l>And each his fav'rite ſcheme purſues.</l>
                   <l>See how iniquities abound;</l>
                   <l>The love of many waxes cold:</l>
@@ -4228,7 +4229,7 @@
                   <l>His people ſure need never mourn.</l>
                </lg>
                <lg>
-                  <pb n="88" facs="tcp:020391_0087_0FAF0738772172F8"/>
+                  <pb n="88" facs="unknown:020391_0087_0FAF0738772172F8"/>
                   <l>2 The tempeſt which rolls at his word,</l>
                   <l>At his bidding ſinks inſtant to reſt:</l>
                   <l>O'er creation's wide bounds he is Lord,</l>
@@ -4272,7 +4273,7 @@
                </lg>
             </div>
             <div n="68" type="song">
-               <pb n="89" facs="tcp:020391_0088_0FAF0739672AA838"/>
+               <pb n="89" facs="unknown:020391_0088_0FAF0739672AA838"/>
                <head>SONG LXVIII.</head>
                <lg>
                   <l>WHEN God to ſinners firſt diſplays</l>
@@ -4314,7 +4315,7 @@
                   <l>7 Yes, he hath done great things for us,</l>
                   <l>Whereof we're glad, and glory thus;</l>
                   <l>
-                     <pb n="90" facs="tcp:020391_0089_0FAF073A35F8C9A8"/>And well we in his work may boaſt,</l>
+                     <pb n="90" facs="unknown:020391_0089_0FAF073A35F8C9A8"/>And well we in his work may boaſt,</l>
                   <l>For Jeſus dy'd to ſave the loſt!</l>
                </lg>
                <lg>
@@ -4363,7 +4364,7 @@
                </lg>
             </div>
             <div n="69" type="song">
-               <pb n="91" facs="tcp:020391_0090_0FAF073AB327E6C8"/>
+               <pb n="91" facs="unknown:020391_0090_0FAF073AB327E6C8"/>
                <head>SONG LXIX.</head>
                <lg>
                   <l>MAN like a flow'r at morn appears,</l>
@@ -4406,7 +4407,7 @@
                   <l>Tho' heav'n and earth ſhall both decay!</l>
                </lg>
                <lg>
-                  <pb n="92" facs="tcp:020391_0091_0FAF073B70DA7C28"/>
+                  <pb n="92" facs="unknown:020391_0091_0FAF073B70DA7C28"/>
                   <l>6 Tho' here afflictions do annoy,</l>
                   <l>There ſorrow ſhall be turn'd to joy;</l>
                   <l>Tho' troubles here the ſigh do raiſe,</l>
@@ -4450,7 +4451,7 @@
                   <l>All flowing from his ſov'reign grace.</l>
                </lg>
                <lg>
-                  <pb n="93" facs="tcp:020391_0092_0FAF073C3812A128"/>
+                  <pb n="93" facs="unknown:020391_0092_0FAF073C3812A128"/>
                   <l>5 By this, we hope a bleſt releaſe</l>
                   <l>From ſin and death; and henceforth ceaſe</l>
                   <l>To work for life, ſince Jeſus ſaid</l>
@@ -4503,7 +4504,7 @@
                   <l>HAIL! hail! the happy wiſh'd for time,</l>
                   <l>When Jeſus ſhall appear:</l>
                   <l>
-                     <pb n="94" facs="tcp:020391_0093_0FAF073D01FFA090"/>When the laſt trumpet loud ſhall ſound,</l>
+                     <pb n="94" facs="unknown:020391_0093_0FAF073D01FFA090"/>When the laſt trumpet loud ſhall ſound,</l>
                   <l>And all the dead ſhall hear.</l>
                </lg>
                <lg>
@@ -4545,7 +4546,7 @@
                   <l>But where's this well ſpent life they boaſt?</l>
                   <l>God's law once ſeen, man's worth is loſt;</l>
                   <l>
-                     <pb n="95" facs="tcp:020391_0094_0FAF073FCC5FC920"/>God's awful juſtice loud doth ſound,</l>
+                     <pb n="95" facs="unknown:020391_0094_0FAF073FCC5FC920"/>God's awful juſtice loud doth ſound,</l>
                   <l>And daſh our boaſting to the ground!</l>
                </lg>
                <lg>
@@ -4587,7 +4588,7 @@
                   <l>He made his grace and mercy known,</l>
                   <l>Yet ſtood expos'd to want and woe!</l>
                   <l>
-                     <pb n="96" facs="tcp:020391_0095_0FAF0740D7240E98"/>Deſpis'd and deſtitute was he,</l>
+                     <pb n="96" facs="unknown:020391_0095_0FAF0740D7240E98"/>Deſpis'd and deſtitute was he,</l>
                   <l>He who the earth's foundations laid:</l>
                   <l>Beaſts found a ſhelter, birds a ſhade,</l>
                   <l>He had not where to lay his head!</l>
@@ -4628,7 +4629,7 @@
                   <l>For food and raiment oft repin'd,</l>
                   <l>Yet we have been fed and cloth'd till now.</l>
                   <l>
-                     <pb n="97" facs="tcp:020391_0096_0FAF0741830D0180"/>And is his hand now waxed ſhort?</l>
+                     <pb n="97" facs="unknown:020391_0096_0FAF0741830D0180"/>And is his hand now waxed ſhort?</l>
                   <l>Away our doubts and fears away;</l>
                   <l>The lillies grow and birds are fed,—</l>
                   <l>His people are nor leſs than they.</l>
@@ -4669,7 +4670,7 @@
                   <l>Eternal life is his alone to give.</l>
                </lg>
                <lg>
-                  <pb n="98" facs="tcp:020391_0097_0FAF074232D5EA80"/>
+                  <pb n="98" facs="unknown:020391_0097_0FAF074232D5EA80"/>
                   <l>5 The world he came not to condemn,</l>
                   <l>As guilty mortals well might fear;</l>
                   <l>But peace and pardon to proclaim;</l>
@@ -4712,7 +4713,7 @@
                   <l>"Muſt we with thieves and murd'rers ſtand,</l>
                   <l>"As much oblig'd to grace as them!"</l>
                   <l>
-                     <pb n="99" facs="tcp:020391_0098_0FAF07430A3845A0"/>That boaſted dignity of ſoul</l>
+                     <pb n="99" facs="unknown:020391_0098_0FAF07430A3845A0"/>That boaſted dignity of ſoul</l>
                   <l>In which man glories, ſhudders here;</l>
                   <l>Reas'ners, and Phariſees, take arms,</l>
                   <l>As if God would unjuſt appear.</l>
@@ -4760,7 +4761,7 @@
                   <l>THE victim's fleſh, without the camp,</l>
                   <l>Was burnt, as ſtain'd with ſin;</l>
                   <l>
-                     <pb n="100" facs="tcp:020391_0099_0FAF05EA086AF3F8"/>Whoſe blood was for atonement brought,</l>
+                     <pb n="100" facs="unknown:020391_0099_0FAF05EA086AF3F8"/>Whoſe blood was for atonement brought,</l>
                   <l>The holy place within.</l>
                </lg>
                <lg>
@@ -4806,7 +4807,7 @@
                   <l>And glory in his worth.</l>
                </lg>
                <lg>
-                  <pb n="101" facs="tcp:020391_0100_0FAF05EB02881240"/>
+                  <pb n="101" facs="unknown:020391_0100_0FAF05EB02881240"/>
                   <l>9 Becauſe the ſov'reign judge of worth</l>
                   <l>Hath put the higheſt price</l>
                   <l>On his abaſement, and hath made</l>
@@ -4846,7 +4847,7 @@
                   <l>Heav'ns reſound</l>
                   <l>To his name,</l>
                   <l>
-                     <pb n="102" facs="tcp:020391_0101_0FAF05EB85FA78C8"/>With the ſound</l>
+                     <pb n="102" facs="unknown:020391_0101_0FAF05EB85FA78C8"/>With the ſound</l>
                   <l>Of the theme,</l>
                   <l>That his mercy endureth for ever.</l>
                </lg>
@@ -4887,7 +4888,7 @@
                   <l>6 Reviled, rejected, deſpiſed, contemned,</l>
                   <l>Afflicted, yea poor as a beggar,</l>
                   <l>
-                     <pb n="103" facs="tcp:020391_0102_0FAF05EC494A0570"/>Perſecuted, perverted, arraigned, condemned,</l>
+                     <pb n="103" facs="unknown:020391_0102_0FAF05EC494A0570"/>Perſecuted, perverted, arraigned, condemned,</l>
                   <l>His cordial was gall and vinegar;</l>
                   <l>Crucify'd</l>
                   <l>Twixt two thieves,</l>
@@ -4929,7 +4930,7 @@
                   <l>Glories beyond the ſkies:</l>
                </lg>
                <lg>
-                  <pb n="104" facs="tcp:020391_0103_0FAF05ECF7AB8E70"/>
+                  <pb n="104" facs="unknown:020391_0103_0FAF05ECF7AB8E70"/>
                   <l>6 Glories which never ſhall decay,</l>
                   <l>But evermore remain;</l>
                   <l>While endleſs ages paſs away,</l>
@@ -4975,7 +4976,7 @@
                   <l>Whoſe faces ſpeak their want.</l>
                </lg>
                <lg>
-                  <pb n="105" facs="tcp:020391_0104_0FAF05EE018392C0"/>
+                  <pb n="105" facs="unknown:020391_0104_0FAF05EE018392C0"/>
                   <l>5 Chriſt in his members aſks your alms;</l>
                   <l>Speaks in his brethren's cries:</l>
                   <l>The widow's wail his language is;</l>
@@ -5021,7 +5022,7 @@
                   <l>Thus vailing all his glory!</l>
                </lg>
                <lg>
-                  <pb n="106" facs="tcp:020391_0105_0FAF05EE97C0B810"/>
+                  <pb n="106" facs="unknown:020391_0105_0FAF05EE97C0B810"/>
                   <l>4 A man of ſorrows he became,</l>
                   <l>And bore for us contempt and ſhame,</l>
                   <l>While he ſalvation did proclaim;</l>
@@ -5067,7 +5068,7 @@
                   <l>Was raiſed from the grave.</l>
                </lg>
                <lg>
-                  <pb n="107" facs="tcp:020391_0106_0FAF05F1D8B99700"/>
+                  <pb n="107" facs="unknown:020391_0106_0FAF05F1D8B99700"/>
                   <l>2 He brought with him the peace divine</l>
                   <l>By his own blood procur'd;</l>
                   <l>The world can give no peace like this,</l>
@@ -5113,7 +5114,7 @@
                   <l>9 God's mercies we will ever ſing;</l>
                   <l>Good-will gave him to die;</l>
                   <l>
-                     <pb n="108" facs="tcp:020391_0107_0FAF05F2C7800B40"/>Complaiſance raiſed him again;</l>
+                     <pb n="108" facs="unknown:020391_0107_0FAF05F2C7800B40"/>Complaiſance raiſed him again;</l>
                   <l>To reign eternally:</l>
                </lg>
                <lg>
@@ -5159,7 +5160,7 @@
                   <l>GLORY to God, now mercy reigns</l>
                   <l>For ever on the throne;</l>
                   <l>
-                     <pb n="109" facs="tcp:020391_0108_0FAF05F4376F0A40"/>And grace flows free, thro' Jeſus' worth,</l>
+                     <pb n="109" facs="unknown:020391_0108_0FAF05F4376F0A40"/>And grace flows free, thro' Jeſus' worth,</l>
                   <l>To ſinners, who have none.</l>
                </lg>
                <lg>
@@ -5205,7 +5206,7 @@
                   <l>To ſeek and ſave the loſt!</l>
                </lg>
                <lg>
-                  <pb n="110" facs="tcp:020391_0109_0FAF05F524879BB8"/>
+                  <pb n="110" facs="unknown:020391_0109_0FAF05F524879BB8"/>
                   <l>2 Thou art beyond compare</l>
                   <l>Moſt precious in our ſight!</l>
                   <l>Than ſons of men more fair;</l>
@@ -5248,7 +5249,7 @@
                   <l>Lord, quickly come.</l>
                </lg>
                <lg>
-                  <pb n="111" facs="tcp:020391_0110_0FAF05F545599D18"/>
+                  <pb n="111" facs="unknown:020391_0110_0FAF05F545599D18"/>
                   <l>2 Let us, with one accord,</l>
                   <l>Shout our returning Lord;</l>
                   <l>Welcome him near:</l>
@@ -5289,7 +5290,7 @@
                   <l>Make ſov'reign grace their ſong,</l>
                   <l>Mercy adore:</l>
                   <l>
-                     <pb n="112" facs="tcp:020391_0111_0FAF05F5F3286F80"/>For all their works are done</l>
+                     <pb n="112" facs="unknown:020391_0111_0FAF05F5F3286F80"/>For all their works are done</l>
                   <l>By him who fills the throne;</l>
                   <l>Praiſe to the Lamb alone</l>
                   <l>For evermore.</l>
@@ -5331,7 +5332,7 @@
                   <l>When the King of Kings comes.</l>
                </lg>
                <lg>
-                  <pb n="113" facs="tcp:020391_0112_0FAF05F6E0579E08"/>
+                  <pb n="113" facs="unknown:020391_0112_0FAF05F6E0579E08"/>
                   <l>5 When the Lord from heaven comes,</l>
                   <l>And the hoſt of heaven comes;</l>
                   <l>We ſhall have a joyful day,</l>
@@ -5374,7 +5375,7 @@
                   <l>When the King of Kings comes.</l>
                </lg>
                <lg>
-                  <pb n="114" facs="tcp:020391_0113_0FAF05F7837519F0"/>
+                  <pb n="114" facs="unknown:020391_0113_0FAF05F7837519F0"/>
                   <l>12 We'll ſee all things by him reſtor'd,</l>
                   <l>And the Lord alone ador'd,</l>
                   <l>By all the ſaints with one accord;</l>
@@ -5417,7 +5418,7 @@
                   <l>Such a wretch in ſuch a kind!</l>
                </lg>
                <lg>
-                  <pb n="115" facs="tcp:020391_0114_0FAF05F83A799EA8"/>
+                  <pb n="115" facs="unknown:020391_0114_0FAF05F83A799EA8"/>
                   <l>5 For his ſoul did travail ſore,</l>
                   <l>To bring forth to God full ſtore</l>
                   <l>Of living ſons, that he the firſt</l>
@@ -5460,7 +5461,7 @@
                   <l>3 But I am puzzled ſtill to think,</l>
                   <l>When all our members die,</l>
                   <l>
-                     <pb n="116" facs="tcp:020391_0115_0FAF05F929C5AA20"/>How theſe our ſpirits, ſeparate,</l>
+                     <pb n="116" facs="unknown:020391_0115_0FAF05F929C5AA20"/>How theſe our ſpirits, ſeparate,</l>
                   <l>Can either live or be.</l>
                </lg>
                <lg>
@@ -5506,7 +5507,7 @@
                   <l>Thro' all the world diſplays.</l>
                </lg>
                <lg>
-                  <pb n="117" facs="tcp:020391_0116_0FAF05F9C3446D00"/>
+                  <pb n="117" facs="unknown:020391_0116_0FAF05F9C3446D00"/>
                   <l>11 So you by me, the fount of light,</l>
                   <l>The ſun of righteouſneſs,</l>
                   <l>As leſſer lights, with borrow'd rays,</l>
@@ -5552,7 +5553,7 @@
                   <l>That ye be not o'erpow'r'd,</l>
                   <l>With ſurfeits, and cares of this world;</l>
                   <l>
-                     <pb n="118" facs="tcp:020391_0117_0FAF05FA8D3ADB28"/>Stand ye faſt and be ſtrong,</l>
+                     <pb n="118" facs="unknown:020391_0117_0FAF05FA8D3ADB28"/>Stand ye faſt and be ſtrong,</l>
                   <l>Midſt the foes you're among,</l>
                   <l>Till vengeance on them ſhall be hurl'd.</l>
                </lg>
@@ -5592,7 +5593,7 @@
                   <l>Eternal King.</l>
                </lg>
                <lg>
-                  <pb n="119" facs="tcp:020391_0118_0FAF05FB5AE14960"/>
+                  <pb n="119" facs="unknown:020391_0118_0FAF05FB5AE14960"/>
                   <l>3 His foes do fret in vain,</l>
                   <l>His pow'r he will maintain,</l>
                   <l>As Lord of all:</l>
@@ -5619,7 +5620,7 @@
             </div>
          </div>
          <div type="elegies">
-            <pb facs="tcp:020391_0119_0FAF05FBF8988A68"/>
+            <pb facs="unknown:020391_0119_0FAF05FBF8988A68"/>
             <head>ELEGIES.</head>
             <div n="1" type="elegy">
                <head>ELEGY I.</head>
@@ -5654,7 +5655,7 @@
                   <l>Me follow, ſelf-denying.</l>
                </lg>
                <lg>
-                  <pb n="122" facs="tcp:020391_0120_0FAF05FCF7307AA0"/>
+                  <pb n="122" facs="unknown:020391_0120_0FAF05FCF7307AA0"/>
                   <l>6 For ſee, I live for evermore,</l>
                   <l>From death's hand to receive you,</l>
                   <l>To reign in endleſs life with me:</l>
@@ -5705,7 +5706,7 @@
                   <l>Their habitation have.</l>
                </lg>
                <lg>
-                  <pb n="123" facs="tcp:020391_0121_0FAF05FD9ADF3620"/>
+                  <pb n="123" facs="unknown:020391_0121_0FAF05FD9ADF3620"/>
                   <l>5 Here's room for us; we'll mourn in hope,</l>
                   <l>Lament with thankful voice;</l>
                   <l>Lo! quickly comes the Lord, to give</l>
@@ -5753,7 +5754,7 @@
                   <l>Pronounce the relics bleſt.</l>
                </lg>
                <lg>
-                  <pb n="124" facs="tcp:020391_0122_0FAF060101108D70"/>
+                  <pb n="124" facs="unknown:020391_0122_0FAF060101108D70"/>
                   <l>7 A time ſhall come, when life ſhall yet</l>
                   <l>Revive this mould'ring clay,</l>
                   <l>And theſe clos'd eyes ſhall yet awake,</l>
@@ -5800,7 +5801,7 @@
                   <l>By thy all-chearing ray.</l>
                </lg>
                <lg>
-                  <pb n="125" facs="tcp:020391_0123_0FAF0601F6576C38"/>
+                  <pb n="125" facs="unknown:020391_0123_0FAF0601F6576C38"/>
                   <l>4 Why then's thy ſacred light and bliſs</l>
                   <l>Deſpis'd by great and ſmall?—</l>
                   <l>Becauſe the love of darkneſs is</l>
@@ -5843,7 +5844,7 @@
                   <l>Learn lowlineſs of heart.</l>
                </lg>
                <lg>
-                  <pb n="126" facs="tcp:020391_0124_0FAF0604111D1A80"/>
+                  <pb n="126" facs="unknown:020391_0124_0FAF0604111D1A80"/>
                   <l>11 Conform'd to him by his employ,</l>
                   <l>In ſhame, reproach, and thrall:</l>
                   <l>Like him, before the cup of joy,</l>
@@ -5886,7 +5887,7 @@
                   <l>Elſe he had loſt the way.</l>
                </lg>
                <lg>
-                  <pb n="127" facs="tcp:020391_0125_0FAF060459F83568"/>
+                  <pb n="127" facs="unknown:020391_0125_0FAF060459F83568"/>
                   <l>18 But patience with the cordial word</l>
                   <l>Refreſh'd his memory,</l>
                   <l>He talk'd of joys with which the Lord</l>
@@ -5932,7 +5933,7 @@
                   <l>And ſelf-denied humility.</l>
                </lg>
                <lg>
-                  <pb n="128" facs="tcp:020391_0126_0FAF0604F222CEF0"/>
+                  <pb n="128" facs="unknown:020391_0126_0FAF0604F222CEF0"/>
                   <l>6 No lordſhip o'er the flocks he claim'd;</l>
                   <l>Their God he led them to revere;</l>
                   <l>To all God's words regard to ſhew,</l>
@@ -5978,7 +5979,7 @@
                   <l>13 Ev'n in old age, when others fail,</l>
                   <l>He ſtill in rich fruits did increaſe,</l>
                   <l>
-                     <pb n="129" facs="tcp:020391_0127_0FAF0605D1AB8388"/>Until his courſe was fully run,</l>
+                     <pb n="129" facs="unknown:020391_0127_0FAF0605D1AB8388"/>Until his courſe was fully run,</l>
                   <l>And then—his latter end was peace.</l>
                </lg>
                <lg>
@@ -6005,7 +6006,7 @@
       </body>
       <back>
          <div type="index">
-            <pb facs="tcp:020391_0128_0FAF060673CD8150"/>
+            <pb facs="unknown:020391_0128_0FAF060673CD8150"/>
             <head>INDEX.</head>
             <p>MOST of the Songs in this Book are in what is called Common or Long Metres; the Lines of the former contain Eight and Six Sylla<g ref="char:EOLhyphen"/>bles alternately; and thoſe of the latter all Eight, and Four Lines to each Verſe. No Singer needs be at any loſs for Tunes to theſe, as there are many Pſalm and Song Tunes for ſuch Metres. It may be obſerved however, that ſome of the Scots and Engliſh Song Tunes anſwer a few of them well, ſuch as the following,</p>
             <div type="list_of_songs">
@@ -6038,7 +6039,7 @@
                   </item>
                   <item>XXVIII. As the 15th.</item>
                   <item>
-                     <pb facs="tcp:020391_0129_0FAF060764E0DB60"/>XXXI. <hi>Love is the Cauſe of my Mourning.</hi>
+                     <pb facs="unknown:020391_0129_0FAF060764E0DB60"/>XXXI. <hi>Love is the Cauſe of my Mourning.</hi>
                   </item>
                   <item>XXXVI. As the 23d.</item>
                   <item>XXXVIII. As the 23d, or <hi>Braes of Balendean.</hi>
